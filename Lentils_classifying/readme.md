@@ -7,4 +7,6 @@
 
 # Prediction
 ![Screenshot (110)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/3dad867b-6f7b-4b40-8279-f978c7803672)
+![Screenshot (111)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/871e9109-80e2-44b6-a9ab-c42a599fa704)
+
 
