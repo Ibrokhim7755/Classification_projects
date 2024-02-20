@@ -1,6 +1,8 @@
 # CustomDataset 
-Custom Dataset is used to pull all the dataset to make it easier.
-Dataset has Three classes:
+Custom Dataset is used to pull all the dataset to make it easier. \n
+
+Dataset has Three classes:\n
+**Split**\n
 
 ![Screenshot (107)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/c6638bdb-858a-4eea-9e46-3b0212ab1a02)
 
