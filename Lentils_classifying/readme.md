@@ -9,7 +9,7 @@ Dataset has Three classes:
 ![Screenshot (107)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/c6638bdb-858a-4eea-9e46-3b0212ab1a02)
 
 # Plot
-Plotting Train Loss and Validation Loss
+Plotting The Train Loss and Validation Loss
 ![Screenshot (108)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/d74c6e84-6c69-44e1-80df-76fb93ec08f7)
 ![Screenshot (109)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/557d2c22-adc1-4873-ad54-14bf420ba652)
 
