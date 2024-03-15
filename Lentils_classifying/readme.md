@@ -16,7 +16,7 @@ Plotting The Train Loss and Validation Loss!
 ![Screenshot (108)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/d74c6e84-6c69-44e1-80df-76fb93ec08f7)
 ![Screenshot (109)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/557d2c22-adc1-4873-ad54-14bf420ba652)
 
-# Prediction
+# Prediction!
 Visualizing the predictions after the inference!
 
 
