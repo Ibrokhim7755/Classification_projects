@@ -1,5 +1,5 @@
 # CustomDataset!
-Custom Dataset is used to pull all the dataset to make it easier. 
+Custom Dataset is used to pull all the dataset to make it easier!
 
 Dataset has Three classes:
 **Split.**
