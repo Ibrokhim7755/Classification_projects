@@ -7,6 +7,6 @@
 ![learning_curves](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/49838bd8-b60f-4998-9822-63fe917463fe)
 
 
-# Inference
+# Inference!!
 
 ![inference](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/ac787169-b51c-4fcc-b96b-3465cd768940)
