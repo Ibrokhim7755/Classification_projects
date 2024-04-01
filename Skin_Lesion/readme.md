@@ -10,5 +10,5 @@ Printing Train loss, train accuracy and Validation loss, validation accuracy.
 
 
 # Inference!!
-
+Providing an inference code that experimented on the test dataset.
 ![inference](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/ac787169-b51c-4fcc-b96b-3465cd768940)
