@@ -5,6 +5,7 @@ Preparing dataset (Reading, pulling, preprocessing and visualizing)
 
 # Learning curves!!
 
+Printin Train loss, train accuracy and Validation loss, validation accuracy
 ![learning_curves](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/49838bd8-b60f-4998-9822-63fe917463fe)
 
 
