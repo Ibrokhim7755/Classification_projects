@@ -7,3 +7,5 @@
 ![Screenshot (135)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/f0ce222c-9dea-410a-afd3-091d91f31ca0)
 
 # Inference!
+
+![Screenshot (136)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/0ad5129f-df19-4ec7-941b-a9ed6223bc61)
