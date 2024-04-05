@@ -9,4 +9,4 @@
 # Inference!
 
 ![Screenshot (136)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/0ad5129f-df19-4ec7-941b-a9ed6223bc61)
-![Screenshot (137)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/02c8ae0e-2cc3-4504-af58-c8499b99c10f)
+  ![Screenshot (137)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/02c8ae0e-2cc3-4504-af58-c8499b99c10f)
