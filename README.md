@@ -9,3 +9,5 @@ This is real dataset.
 # Plotting the Learning Curves!
 
 ![Screenshot (135)](https://github.com/Ibrokhim7755/Classification_projects/assets/89033710/f0ce222c-9dea-410a-afd3-091d91f31ca0)
+
+# Inference!
